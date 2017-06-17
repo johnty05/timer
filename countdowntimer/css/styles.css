@@ -1,0 +1,194 @@
+body{
+	background-color:#212222;
+	color:white;
+}
+
+
+.img{
+	background-color:#22A39F;
+	width:100%;
+	height:665px;
+	opacity:0.5;
+	border: 1px solid #212222;
+}
+h1{
+	margin-top:300px;
+	text-align:center;
+	color:white;
+	font-size:60px;
+	border-bottom:1px solid white; 
+}
+
+h2{
+	font-size:54px;
+	font-family:monospace;
+	color:#22A39F
+}
+
+h3{
+	font-size:28px;
+	color:#22A39F;
+	font-family:monospace;
+}
+
+.cen{
+	margin:50%;
+	padding:auto;
+}
+.par{
+	text-align:center;
+	font-size:24px;
+
+}
+
+.img-circle{
+	border:5px solid gray;
+}
+
+.img-responsive{
+	height:200px;
+	width:200px;
+}
+
+
+.par1{
+	text-align:center;
+	font-size:18px;
+	padding-bottom:10px;
+}
+
+.par2{
+	font-size:18px;
+	padding-bottom:10px;
+}
+
+.par3{
+	text-align:justify;
+	font-size:18px;
+	padding-bottom:10px;
+	margin-bottom:20px;
+}
+
+ .marg{
+	 margin-top:250px;
+ }
+ 
+ .background-grey{
+	 background-color:#212222;
+	 width:100%;
+	 height:100%;
+ }
+ 
+hr {
+    margin: 12px 0px;
+    border-color: white;
+    opacity: 0.2;
+}
+ 
+ .rel{
+	 position:relative;
+ }
+ 
+ .row{
+	 margin:0
+ }
+ 
+ .center{
+	 text-align:center;
+ }
+ 
+ .abs{
+	 position:absolute;
+ }
+ 
+ ul > li {
+    min-height: 30px;
+    padding: 3px 0px;
+}
+ 
+ li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+ 
+ ul.no-bullets {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.ability-title{
+	padding-top:10px;
+	width=60%;
+}
+
+.icon-bar {
+  color: black;
+  border-color: white;
+  background-color: white;
+}
+
+.ability-score{
+	float:right;
+	display:block;
+}
+ 
+ .background-gray{
+	 background-color:#424242;
+	 margin-top:10px;
+ }
+
+<!-- navbar --> 
+.navbar{
+	margin:0;
+	padding:0;
+	background-color:black;
+}
+
+.navbar-header{
+	background-color:black;
+}
+
+.navbar-default{
+	z-index:1;
+	padding:0;
+	margin:0;
+	width:100%;
+	background-color:black;
+	border:0;
+}
+
+li>a:hover{
+	background-color:white;
+}
+
+i{
+	color:black;
+	margin:5px;
+}
+
+#fb{
+	font-size:36px;
+	
+}
+
+#fb:hover{
+	color:#3b5998;
+}
+
+#tw:hover{
+	color:#0084b4;
+}
+
+#ln:hover{
+	color:#0077B5;
+}
+
+#em:hover{
+	color:#ea4335;
+}
+
+#ph{
+	float:right;
+	font-size:14px;
+}
